@@ -9,3 +9,6 @@ Copy the code and paste it to VSCode. Afterward, do the key combination of Ctrl 
 # NOTE 
 This chatbot will specifically not send logs to me or Gemini. But keep in mind that it was built by a nerdy 13 y/o. So please don't get mad if I didn't think of features
 you liked in ChatGPT or DeepSeek. Instead. Issue me it and i'll add it as quick as possible.
+
+# NOTE 2
+Github will say it is HTML only. Don't be fooled. For the best ease-of-use, I compiled it to one file. Ask if you want specifically the CSS or Javascript.
